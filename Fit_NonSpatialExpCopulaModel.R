@@ -4,7 +4,6 @@
 ### ======================================================================== ###
 
 ## Load libraries and functions ##
-library(parallel)
 source('./CensoredLikelihood_nonspatial.R')
 
 ## Load data ##
