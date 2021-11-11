@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 ### ========================================================================================================= ###
 ### Censored local log-likelihood and model fitting functions for the U.S. precipitation extremes application ###
 ### Daniela Castro-Camilo                                                                                     ###
 ### Email: daniela.castro.camilo@gmail.com                                                                    ###
 ### ========================================================================================================= ###
-
+hello
 ### ========================================================================== ###
 ### This code has undergone alterations from its original state to accommodate ###                              
 ### the possibility of unreplicated samples . All functions included here have ###
