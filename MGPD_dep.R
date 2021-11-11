@@ -1,6 +1,6 @@
 ### ======================================================================== ###
 ### Fit MGPD model for extraml dependence of unreplicated data using the     ###
-### Kiriliouk (2019) construction .                                          ###
+### Kiriliouk (2019) construction.                                           ###
 ### Daniela Cuba                                                             ###                                                      ###
 ### ======================================================================== ###
 
