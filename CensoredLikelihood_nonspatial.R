@@ -110,7 +110,7 @@ print(paste0("Start at: ",Sys.time()))
   
   ## Fit likelihood to a grid of potential starting values to find best initial values for optimisation
   if(starting){
-    lams<-c(seq(0.1,5,0.25),seq(5,30,1))
+    lams<-c(seq(0.1,5,0.25),seq(5,30,5))
     rs<-seq(-0.9,0.9,0.1)
     init.grid<-expand.grid(lams,rs)
     names(init.grid)<-c("lambda","rho")
